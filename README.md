@@ -14,7 +14,7 @@ Based on this concept, the following robotic projects are listed, each incorpora
 
 ### Current Robotics Projects
 
-- [2WD Robot](Robot-2WD/) - Two-wheel drive robot implementation
+- [2WD Robot](crop/robo/robo2wd/) - Two-wheel drive robot implementation
 
 ## Simulators
 
